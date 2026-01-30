@@ -1,6 +1,6 @@
 # EcoPanier
 
-Une plateforme de vente de paniers anti-gaspillage destinée aux étudiants. Achetez des invendus à prix réduit tout en contribuant à réduire le gaspillage alimentaire.
+Une plateforme de vente de paniers anti-gaspillage destinée aux étudiants. Achetez des invendus à prix réduit tout en contribuant à réduire le gaspillage alimentaire. lien demo: https://ecopanier.netlify.app/
 
 ![EcoPanier](./public/ecopanier_logo.png)
 
