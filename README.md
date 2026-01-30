@@ -44,7 +44,7 @@ Une plateforme de vente de paniers anti-gaspillage destinée aux étudiants. Ach
 
 1. **Cloner le repository**
 ```bash
-git clone https://github.com/VOTRE_USERNAME/ecopanier.git
+git clone https://github.com/ayinin-cherifdine/ecopanier.git
 cd ecopanier
 ```
 
